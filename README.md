@@ -9,7 +9,8 @@ The purpose of this repository is to keep track, and link to the certificates ea
 4. NumPy Data Science Essential Training
 
 ###### Additional Activities
-4. Programming Foundations: Fundamentals
-5. Introduction to Puthon (GitHub tutorial)
-6. Python Quiz from W3Schools
-7. 
+4. Programming Foundations: Fundamentals (LinkedIn)
+5. Programming Foundations: Version Control with Git (LinkedIn)
+6. Introduction to Python (GitHub tutorial)
+7. Python Quiz from W3Schools
+8. 
