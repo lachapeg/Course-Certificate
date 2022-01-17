@@ -5,8 +5,8 @@ The purpose of this repository is to keep track, and link to the certificates ea
 ### List of Certificates
 ###### Mandatory Assignment Courses
 1. [Introducing Jupyter](Certificates/CertificateOfCompletion_Python Quick Start.pdf)
-2. Python Quick Start
-3. NumPy Data Science Essential Training
+3. Python Quick Start
+4. NumPy Data Science Essential Training
 
 ###### Additional Activities
 4. Programming Foundations: Fundamentals
