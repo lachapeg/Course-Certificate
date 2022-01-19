@@ -6,7 +6,7 @@ The purpose of this repository is to keep track, and link to the certificates ea
 ###### Mandatory Assignment Courses
 1. [Introducing Jupyter](https://github.com/lachapeg/Course-Certificates/blob/e17d8bbc72838e4c1f9db24eb1472bedc21d54a2/Certificates/CertificateOfCompletion_Introducing%20Jupyter.pdf)
 2. [Python Quick Start](https://github.com/lachapeg/Course-Certificates/blob/aab957d9ed561080196a327d71aedd26148125d4/Certificates/CertificateOfCompletion_Python%20Quick%20Start.pdf)
-3. NumPy Data Science Essential Training
+3. [NumPy Essential Training: 1 Foundations of Numpy](https://github.com/lachapeg/Course-Certificates/blob/76b12883d972dc8c51ca9a0658808395d394c7fa/Certificates/CertificateOfCompletion_NumPy%20Essential%20Training%201%20Foundations%20of%20NumPy.pdf)
 
 ###### Additional Activities
 4. Programming Foundations: Fundamentals (LinkedIn)
