@@ -14,4 +14,3 @@ The purpose of this repository is to keep track, and link to the certificates ea
 6. [Python Quiz from W3Schools](https://github.com/lachapeg/Course-Certificates/blob/e958e851760b06699570aa079b150feae07a133e/Certificates/W3_Schools_Python_Quiz.PNG)
 7. [First Day on GitHub](https://github.com/lachapeg/Course-Certificates/blob/ba8b5c99361992d9b7d7c12e55cd5bd2e81b06f3/Certificates/First_Day_on_GitHub_Completion.PNG)
 8. [First Week on GitHub](https://github.com/lachapeg/Course-Certificates/blob/4b2f9a0bfc7a8157fdaa6109c4c9960fd40ff086/Certificates/First_Week_on_GitHub_Completion.PNG)
-
